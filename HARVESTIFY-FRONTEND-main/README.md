@@ -5,12 +5,6 @@ I built Harvestify, a MERN stack auction platform with custom bidding algorithms
 https://harvestify-seven.vercel.app/
 
 
-## Back-end repository:
-The REST APIs are all derived from my backend application. Here is the link to the backend source code.
-```bash
-https://github.com/Abhishekhti/HARVESTIFY-BACKEND.git
-```
-
 ## The Problem:
 Today's agricultural commerce relies heavily on offline auctions, often involving a middleman who connects farmers and buyers. This system adds unnecessary cost and creates an information gap between producers and consumers.
 
